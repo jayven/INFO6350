@@ -1,0 +1,6 @@
+framework module Pods_StockExpertTests {
+  umbrella header "Pods-StockExpertTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
